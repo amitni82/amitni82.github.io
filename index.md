@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-This is an ongoing efforts to document my understanding about,
+This is an ongoing efforts to document my understanding about below topics,
 
 - Trading
 - Agentic AI
